@@ -9,9 +9,7 @@
 1. 安装 Python 3.10+
 2. 安装 Git（可选，用于代码版本管理）
 3. 安装 selenium 库
-```powershell
 pip install selenium
-```
 4. Edge浏览器（系统自带，无需额外下载）
 
 ### 2. 项目文件说明
